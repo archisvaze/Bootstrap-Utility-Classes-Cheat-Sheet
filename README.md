@@ -532,7 +532,6 @@ All utilities can be made responsive by adding breakpoint suffixes:
 ## Resources
 
 - [Official Bootstrap Documentation](https://getbootstrap.com/docs/5.3/utilities/api/)
-- [Bootstrap Utilities on GitHub](https://github.com/twbs/bootstrap/tree/main/scss/utilities)
 
 ---
 
